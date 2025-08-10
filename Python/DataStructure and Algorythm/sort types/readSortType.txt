@@ -1,0 +1,12 @@
+there are several type of sorting methods.
+
+bubble sort
+merge sort
+quick sort
+heap sort
+insertion sort
+selection sort
+
+
+different sort types are used for different case scenarios.
+based on scenario picking a good compatible sort can make the software more efficient.
